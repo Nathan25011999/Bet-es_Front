@@ -7,11 +7,8 @@
 # Only exists if Bazel was run
 /bazel-out
 
-<<<<<<< HEAD
-=======
 # dependencies
 /node_modules
->>>>>>> a43883b8240d2702ee592e411072df7790d28365
 
 # profiling files
 chrome-profiler-events.json
