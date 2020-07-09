@@ -31,7 +31,8 @@
     "zone.js": "~0.9.1",
     "express":"*",
     "body-parser":"*",
-    "bcrypt": "5.0.0"
+    "bcrypt": "5.0.0",    
+    "typescript": "~3.5.3"
   },
   "devDependencies": {
     "@angular/compiler-cli": "~8.2.14",
@@ -50,7 +51,6 @@
     "protractor": "~5.4.0",
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
-    "typescript": "~3.5.3"
   },
   "engines": {
     "node": "10.9.0",
